@@ -1,4 +1,4 @@
-{"cuentas":[
+[
     {"id":"0000","nom":"Jordi","cognoms":"Joan","user":"admin","password":"DIO","profilePhoto":"","ciutat":"Mataró","telefon":"654987321","accountType":3,"logros":"1;3;8;15","nivell":0},
     {"id":"0001","nom":"Jordi","cognoms":"Joan","user":"LeadIT","password":"acompanyOn","profilePhoto":"","ciutat":"Mataró","telefon":"654987321","accountType":3,"logros":"1;3;8;15","nivell":0},
     {"id":"0002","nom":"Jordi","cognoms":"Joan","user":"Anna","password":"Barbasdfscoa","profilePhoto":"","ciutat":"Mataró","telefon":"654987321","accountType":0,"logros":"1;3;8;15","nivell":0},
@@ -17,4 +17,4 @@
     {"id":"0015","nom":"Jordi","cognoms":"Joan","user":"Estefania","password":"aGenon","profilePhoto":"","ciutat":"Mataró","telefon":"654987321","accountType":0,"logros":"1;3;8;15","nivell":0},
     {"id":"0016","nom":"Jordi","cognoms":"Joan","user":"Harry","password":"mevo","profilePhoto":"","ciutat":"Mataró","telefon":"654987321","accountType":0,"logros":"1;3;8;15","nivell":0},
     {"id":"0017","nom":"Jordi","cognoms":"Joan","user":"JoanAntoni","password":"araKiseOlvido","profilePhoto":"","ciutat":"Mataró","telefon":"654987321","accountType":0,"logros":"1;3;8;15","nivell":0}
-]}
+]
